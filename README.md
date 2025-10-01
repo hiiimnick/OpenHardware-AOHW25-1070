@@ -172,7 +172,7 @@ Benefits:
 
 | Condition | Dtype Used |
 |-----------|------------|
-| NVIDIA | bfloat16 |
+| NVIDIA | fp16 |
 | AMD | fp16 |
 | CPU | float32 |
 
