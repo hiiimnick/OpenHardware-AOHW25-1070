@@ -197,4 +197,4 @@ This project is licensed under the GPLv3 License. See the [LICENSE](LICENSE.txt)
 Coordinator: Lecturer Cătălin Ciobanu, Email: catalin.ciobanu@unitbv.ro
 
 ---
-For detailed information to the demonstration video, which is available here: [Demo Video](https://youtu.be/mA8_8SNGn6w)
+For detailed information to the demonstration video, which is available here: [Demo Video](https://www.youtube.com/watch?v=JDg0VmjIc3c)
