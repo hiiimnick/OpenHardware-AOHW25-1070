@@ -97,7 +97,7 @@ Basic (for linux systems):
 ```bash
 ./dense.py
 or for model demo
-./gui.py`
+./gui.py
 ```
 Universal:
 ```bash
